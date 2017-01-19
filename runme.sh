@@ -1,0 +1,1 @@
+python lalapps_cbc_sbank_prune_pe_posteriors.py --approximant IMRPhenomPv2 --seed 1231324 --pe-samples pe_posteriors.xml --flow 30 --match-min 0.99 --cache-waveforms --output-filename pe_posteriors_pruned.xml --verbose --fhigh-max 1024 --reference-psd /home/spxiwh/aLIGO/O2/template_banks/O2_trials/H1L1-AVERAGE_PSD-1163174417-604800.txt.gz
